@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2021-04-19 17:10
 # @Author  : WenYi
-# @Contact : wenyi@cvte.com
+# @Contact : 1244058349@qq.com
 # @Description : model train function
 
 import torch
